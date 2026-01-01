@@ -1,6 +1,3 @@
-An instruct text-to-speech model based on LLaSA and CosyVoice2 developed by ASLP.
-
-
 <div align="center">
     <h1>
     VoiceSculptor
@@ -13,6 +10,7 @@ An instruct text-to-speech model based on LLaSA and CosyVoice2 developed by ASLP
     <img src="assets/VoiceSculptor.png" style="width: 200px; height: 68px;">
     </p>
     <p>
+        An instruct text-to-speech model based on LLaSA and CosyVoice2 developed by ASLP.
     </p>
     <a href="https://hujingbin1.github.io/VoiceSculptor-Demo/"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
     <a href="https://huggingface.co/collections/ASLP-lab/voicesculptor"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue' alt="HF-model"></a>
