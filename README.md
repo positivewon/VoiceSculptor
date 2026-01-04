@@ -80,7 +80,7 @@ python build_rag.py
 -   [x] 🔓 **Release inference code**
 -   [x] 🤗 **Release HuggingFace model**
 -   [] 🤗 **HuggingFace Space**
--   [] 📝 **Release Paper**
+-   [] 📝 **Release Technical Report**
 -   [] 🔓 **Release gradio code**
 -   [] 🔓 **Release RAG code**
 -   [] 🔓 **Support vLLM**
@@ -129,7 +129,7 @@ python build_rag.py
 
 ## License
 
-We use the Apache 2.0 license. Researchers and developers are free to use the codes and model weights of our VoiceSculptor. Check the license at [LICENSE](LICENSE) for more details.
+We use the Apache 2.0 license. Researchers and developers are free to use the codes and model weights of our VoiceSculptor. Check the license at [LICENSE](LICENSE.txt) for more details.
 
 ## Acknowledge
 - This repo benefits from [LLaSA](https://github.com/zhenye234/LLaSA_training)
