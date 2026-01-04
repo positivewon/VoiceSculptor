@@ -16,9 +16,10 @@
 
 ## Demo Video
 
-<video width="400" controls>
-  <source src="demo/demo_video.mp4" type="video/mp4">
-</video>
+<div align="center">
+  <https://github.com/user-attachments/assets/88c7230f-3ad8-4f37-b7fb-33a52f2b469d>
+</div>
+
 
 ## 🚀 Getting Started
 
