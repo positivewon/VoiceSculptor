@@ -9,9 +9,9 @@
     <img src="assets/logo.png" style="width: 400px; height: 400px;">
     </p>
     <a href="https://hujingbin1.github.io/VoiceSculptor-Demo"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
-    <a href="https://huggingface.co/collections/ASLP-lab/voicesculptor"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue' alt="HF-model"></a>
+    <a href="https://huggingface.co/ASLP-lab/VoiceSculptor-VD"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue' alt="HF-model"></a>
     <a href="https://github.com/ASLP-lab/VoiceSculptor"><img src='https://img.shields.io/badge/Report-Github?label=Technical&color=red' alt="technical report"></a>
-    <a href="https://huggingface.co/collections/ASLP-lab/voicesculptor"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue' alt="HF-demo"></a>
+    <a href="https://huggingface.co/ASLP-lab/VoiceSculptor-VD"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue' alt="HF-demo"></a>
     <a href="https://github.com/ASLP-lab/VoiceSculptor"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
 </div>
 
@@ -49,7 +49,7 @@
 ## 🔥 News
 
 
-- **[2026-1-2]** We opened the repository and uploaded the voice design models! [VoiceSculptor](https://huggingface.co/collections/ASLP-lab/voicesculptor)
+- **[2026-1-2]** We opened the repository and uploaded the voice design models! [VoiceSculptor](https://huggingface.co/ASLP-lab/VoiceSculptor-VD)
 
 ## 🚀 Getting Started
 
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ```bash
 git lfs install
-git clone https://huggingface.co/ASLP-lab/VoiceSculptor
+git clone https://huggingface.co/ASLP-lab/VoiceSculptor-VD
 ```
 
 ### 3. Infer
