@@ -56,6 +56,9 @@ git clone https://huggingface.co/ASLP-lab/VoiceSculptor
 
 ### 3. Infer
 
+For detailed instructions on how to design high-quality voice prompts,  
+please refer to [Voice Design Guide](docs/voice_design.md) or [Voice Design Guide EN](docs/voice_design_en.md).
+
 ```bash
 python infer.py
 ```
