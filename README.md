@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<https://github.com/user-attachments/assets/88c7230f-3ad8-4f37-b7fb-33a52f2b469d>
+<https://github.com/user-attachments/assets/7176fe2a-e5cd-4734-ad2b-0744bcf101d1>
 
 </div>
 
