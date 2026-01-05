@@ -26,7 +26,7 @@
 | GPT-4o-Mini-TTS* | 54.9 | 52.3 | 46.0 | 51.1 |
 | ElevenLabs* | 42.8 | 50.9 | 59.1 | 50.9 |
 | VoxInstruct | 47.5 | 52.3 | 42.6 | 47.5 |
-| MiMo-Audio-7B-Instruct | 70.17 | 66.1 | 57.1 | 64.5 |
+| MiMo-Audio-7B-Instruct | 70.1 | 66.1 | 57.1 | 64.5 |
 | **VoiceSculptor** | **75.7** | **64.7** | **61.5** | **67.6** |
 
 > **Note**
