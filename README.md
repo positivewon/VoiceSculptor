@@ -45,7 +45,7 @@ VoiceSculptor is composed of two core components: voice design and voice clone. 
 
 <div align="center">
 
-<https://github.com/user-attachments/assets/7176fe2a-e5cd-4734-ad2b-0744bcf101d1>
+<https://github.com/user-attachments/assets/40eee464-182a-4e1e-ad92-684a7cbbbce6>
 
 </div>
 
