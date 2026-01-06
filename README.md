@@ -15,6 +15,10 @@
     <a href="https://github.com/ASLP-lab/VoiceSculptor"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
 </div>
 
+## 💡 System Overview
+
+VoiceSculptor is composed of two core components: voice design and voice clone. The voice design module enables the generation of timbre from natural language descriptions and supports command refinement through Retrieval-Augmented Generation (RAG). It also provides fine-grained control over voice attributes, including gender, age, speaking rate, fundamental frequency, volume, and emotional expression. The synthesized audio produced by the voice design module can be used as a prompt waveform for the CosyVoice2 voice cloning model, enabling timbre cloning and downstream speech synthesis tasks.
+
 ## 📊 Instruct TTS Eval
 
 #### Instruct TTS Eval (ZH)
