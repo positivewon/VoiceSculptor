@@ -85,4 +85,4 @@ with torch.no_grad():
     # Decode the speech tokens to speech waveform
     gen_wav = Codec_model.decode_code(speech_tokens) 
 
-sf.write(f"{output_path}/{out_name}.wav", gen_wav[0, 0, :].cpu().numpy(), 16000)
+sf.write(f"{output_dir}/{out_name}.wav", gen_wav[0, 0, :].cpu().numpy(), 16000)
