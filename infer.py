@@ -28,8 +28,8 @@ def extract_speech_ids(speech_tokens_str):
 
 
 model_path = ""
-device = "cuda"
 xcodec2_model_path = ""
+device = "cuda" if torch.cuda.is_available() else "cpu"
 out_path = "./output"
 version = "llasa_3b_instruct_zh"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
