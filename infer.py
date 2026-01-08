@@ -28,7 +28,7 @@ def extract_speech_ids(speech_tokens_str):
 
 
 model_path = ""
-device = ""
+device = "cuda"
 xcodec2_model_path = ""
 out_path = "./output"
 version = "llasa_3b_instruct_zh"
