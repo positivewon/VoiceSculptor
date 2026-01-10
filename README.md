@@ -176,11 +176,8 @@ You’re welcome to join our WeChat group for technical discussions, updates.
       <!-- : <strong>Tiamo James</strong></em> -->
   <br>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="assets/wechat.png" width="300" alt="WeChat Group QR Code"/>
+    <img src="assets/wechat_new.png" width="300" alt="WeChat Group QR Code"/>
   </span>
-  <!-- <span style="display: inline-block;">
-    <img src="assets/wechat_tiamo.jpg" width="300" alt="WeChat QR Code"/>
-  </span> -->
 </p>
 
 ## Star History
